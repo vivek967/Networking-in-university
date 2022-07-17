@@ -9,6 +9,6 @@ The major aim of this project is to show the wireless connectivity that is used 
 Mobility is the major concentration of this project. In order to provide equal functionality to all the users (college staff and students), we have added DNS, Email, and HTTP servers for the maximum utilization of resources. 
 
 
-![image](https://user-images.githubusercontent.com/72155486/179387873-2a469c9d-ac7a-4ae8-baed-83e94022c0d1.png)
+![image](https://user-images.githubusercontent.com/72155486/179387907-f258af66-481a-4eaa-8146-70e491691ede.png)
 
 
